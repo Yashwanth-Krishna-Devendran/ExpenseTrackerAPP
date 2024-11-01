@@ -1,0 +1,25 @@
+The file contains the syllabus for a B.Tech AI & DS course titled "Object-Oriented Programming" (CS2003). 
+Here's an outline based on the main topics covered:
+
+1. Introduction to OOP and Java Fundamentals
+   - Key concepts: Abstraction, Encapsulation, Inheritance, Polymorphism
+   - Java basics: Characteristics, environment setup, source file structure, compilation
+   - Core programming structures: Classes, constructors, methods, access specifiers, static members, control flow, arrays, packages, JavaDoc comments "Use all these features to develop the application which i mentioned above" 
+
+2. Inheritance and Interfaces
+   - Topics: Super and sub-classes, protected members, constructors in subclasses, abstract classes, final methods and classes
+   - Interfaces: Definition, implementation, differences from classes, extensions
+   - Additional concepts: Object cloning, inner classes, Array Lists, Strings
+
+3. Exception Handling and I/O
+   - Exception hierarchy, custom exceptions, stack trace elements
+   - I/O: Basics, streams (byte and character), console and file read/write operations
+
+4. Multithreading and Generic Programming
+   - Threading: Life cycle, creation, synchronization, inter-thread communication, daemon threads, thread groups
+   - Generic programming: Generic classes/methods, bounded types, restrictions
+
+5. Event-Driven Programming
+   - Graphics programming: Frames, components, 2D shapes, colors, fonts, images
+   - Event handling basics, AWT event hierarchy, Swing components (Text fields, Buttons, Dialog boxes, etc.)
+
